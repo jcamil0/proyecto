@@ -1,6 +1,5 @@
 #titulo: parqueadero.py
-#descripcio: sistema de administracion de parqueo desarrolaldo en el lenguaje de programacion python para la universidad PUJ
-#autor: laura
+#autor: camilo 
 #version: 0.1
 #version de python : 3.6.9
 #===========================================================================================================================
